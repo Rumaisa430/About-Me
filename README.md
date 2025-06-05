@@ -1,1 +1,3 @@
 # About-Me
+I'm Rumaisa Ali, a 4th-semester software engineering student from Mardan. I’m eager to use my knowledge to make meaningful contributions. Looking ahead, I aim to specialize in the fast-changing field of web development.
+I’m truly passionate about using my skills to build easy-to-use and strong web applications—whether it’s designing interactive user interfaces on the front end or creating reliable server-side features and databases on the back end. My goal is to develop web solutions that are efficient, scalable, and improve the user experience. I believe this strong interest will help me play an important role in building useful and reliable web systems in the tech industry.
